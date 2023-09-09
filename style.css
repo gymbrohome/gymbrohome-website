@@ -1,0 +1,115 @@
+.top {
+     height: 100px; 
+     width: 100%;
+     background-color: red;
+     margin: 0;
+     opacity: 70%;
+    }
+* {
+     margin: 0;
+}
+#images {
+     height: 80px; 
+     width: auto;
+     margin: 10px;
+     border-radius: 50%;
+     float: left;
+     
+    }
+#alpha {
+     color: black;
+     font-family: 'Times New Roman', Times, serif;
+     float: left;
+     margin: 10px;
+     padding: 10px;
+     font: 50px bold;
+     }
+body { 
+     background-image: url(https://img.freepik.com/premium-photo/gym-with-light-wall-treadmill_808092-1997.jpg);
+     background-repeat: repeat-y;
+     background-size: 100%;
+     background-color: black;
+     height: 2000px;
+    }
+#quote {
+     text-align: center; 
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+     width: 1000px;
+     font: 50px bold; 
+     color: white;
+     background-color: black;
+     opacity: 70%; 
+     margin: 80px auto 35px auto; 
+     padding: 50px;
+     word-wrap: break-word;
+     border:10px white solid; 
+     line-height: 80px;
+     position: relative;}
+
+
+
+#text {
+     position: relative;
+     color: red; 
+     font-family: 'Times New Roman', Times, serif;
+     font: 55px bold; 
+     width: 1000px;
+     text-align: center;
+     margin-right: auto;
+     margin-left: auto;
+     line-height: 50px;
+     padding-top: 0px;
+     background-color: black;
+     opacity: 70%;
+     padding: 20px;
+}
+#startLabel {
+     position: absolute;
+     color: white;
+     text-align: center;
+     font: 50px bold;
+     margin-top: 20px;
+     margin-left: 625px;
+     width: 200px;
+     border: white 10px solid;
+}
+input {
+     width: auto;
+     height: auto;
+     font: 40px white bold;
+     background-color: black;
+     color: white;
+     opacity: 75%;
+     font-family: 'Times New Roman', Times, serif;
+}
+.information {
+     font: 50px white bold;
+     font-family: 'Times New Roman', Times, serif;
+     position: relative;  
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     width: 700px;
+     height: auto;
+     background-color: black;
+     color: white;
+     padding: 30px;
+     opacity: 75%;
+}
+#goals {
+    width: 500px;
+}
+button {
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    background-color: black;
+    opacity: 90%;
+    color: white;
+    margin-left: 42.5%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+
+}
+
+
